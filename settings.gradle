@@ -1,0 +1,4 @@
+rootProject.name = 'jdac'
+
+include 'jdac-rbac-mybatis-plus'
+
